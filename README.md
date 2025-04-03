@@ -41,8 +41,8 @@ Rate yourself on a scale from 1 to 10 for each statement:
 Add up your total points from all 30 questions.
 
 ## Interpretation
-- Total score between 30-120: Your self-reported characteristics align more strongly with typical human cognitive and behavioral patterns.
-- Total score between 121-160: You display a mix of characteristics that could be associated with either human or AI-like patterns.
-- Total score between 161-300: Your self-reported characteristics show patterns that might be associated with AI-like systematic thinking and behavior.
+- Total score between 30-100: Your self-reported characteristics align more strongly with typical human cognitive and behavioral patterns.
+- Total score between 100-150: You display a mix of characteristics that could be associated with either human or AI-like patterns.
+- Total score between 151-300: Your self-reported characteristics show patterns that might be associated with AI-like systematic thinking and behavior.
 
 *Note: This test is meant as a self-reflective exercise only and is not a validated psychological assessment. Human cognition and behavior are highly variable and complex.*
